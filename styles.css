@@ -16,6 +16,24 @@ h2 {
     color: #E5E7EB;
 }
 
+.hook {
+    display: flex;
+    justify-content: center;
+}
+
+.hookBlock {
+    display: block;
+}
+
+.hook img {
+    height: auto;
+    width: 400px;
+    border: 1px, solid, #F9FAF8;
+    border-radius: 4px;
+    padding: 5px;
+    width: 150px;
+}
+
 .topnav a {
     text-decoration: none;
     font-size: 18px;
@@ -40,6 +58,19 @@ button {
 .signUp {
     background-color: #3882F6;
     color: #F9FAF8;
+}
+
+.infoBox {
+    display: flex;
+    justify-content: space-evenly;
+}
+
+.card img {
+    height: auto;
+    border: 1px solid #ddd;
+    border-radius: 4px;
+    padding: 5px;
+    width: 150px;
 }
 
 /* .topnav img {
