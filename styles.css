@@ -1,9 +1,51 @@
-body {
+.topnav,
+.hook,
+footer {
     background-color: #1F2937;
+    color: #E5E7EB;
 }
 
 h2 {
     font-size: 48px;
     color: #F9FAF8;
-    /*extra-bold */
+    font-weight: bold;
 }
+
+.hero {
+    font-size: 18px;
+    color: #E5E7EB;
+}
+
+.topnav a {
+    text-decoration: none;
+    font-size: 18px;
+    color: #E5E7EB;
+}
+
+button {
+    background-color: #3882F6;
+    color: #F9FAF8;
+}
+
+.info h3 {
+    font-size: 36px;
+    color: #1F2937;
+    font-weight: bold;
+}
+
+.quote {
+    background-color: #E5E7EB;
+}
+
+.signUp {
+    background-color: #3882F6;
+    color: #F9FAF8;
+}
+
+/* .topnav img {
+    height: auto;
+    width: auto !important;
+    max-width: 100px;
+    max-height: max-content;
+    margin: 0px;
+} */
